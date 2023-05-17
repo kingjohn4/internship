@@ -1,0 +1,4 @@
+[server]
+maxMessageSize = 500
+
+streamlit run your_app.py --server.maxMessageSize 500
